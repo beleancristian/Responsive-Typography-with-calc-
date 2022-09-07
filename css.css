@@ -1,6 +1,6 @@
 body {
     padding: 2em;
     font-size: 16px;
-    font-size: calc(16px + (18-14)*(100vw - 325px)/(1600 - 50));
+    font-size: calc(14px + (18-14)*(50vw - 328px)/(1400 - 50));
     line-height: 1.5;
   }
