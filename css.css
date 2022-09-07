@@ -4,5 +4,3 @@ body {
     font-size: calc(16px + (18-14)*(100vw - 325px)/(1600 - 50));
     line-height: 1.5;
   }
-
-  
